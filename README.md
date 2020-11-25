@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Lyle Timotheus and I am a self-taught developer. Feel free to reach to me if you want to work on a project. 
+
+I will try to update this section with more information as soon as my life becomes interesting. 
+
 <!--
 **Lyletimotheus/Lyletimotheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
