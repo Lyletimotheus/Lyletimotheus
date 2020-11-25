@@ -4,6 +4,12 @@ My name is Lyle Timotheus and I am a self-taught developer. Feel free to reach o
 
 I will try to update this section with more information as soon as my life becomes more interesting. 
 
+Client projects I've worked on thus far: 
+- [Stine Tuts](https://www.stinetuts.co.za/)
+- [Industrial Pumps SA](https://www.indpumps-sa.co.za/)
+- [Inner Strength Coach](https://innerstrengthcoach.co.uk/)
+- [Industrial Valves SA](https://www.indvalves.co.za/)
+
 📫 How to reach me: 
 - [LinkedIN] (https://www.linkedin.com/in/lyle-timotheus/)
 - [Instagram] (https://www.instagram.com/lylo_fish_/)
