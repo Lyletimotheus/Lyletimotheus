@@ -13,8 +13,8 @@ Client projects I've worked on thus far:
 
 📫 How to reach me: 
 - [LinkedIN] (https://www.linkedin.com/in/lyle-timotheus/)
-- [Instagram] (https://www.instagram.com/lylo_fish_/)
-- [Personal website] (https://www.ciphercode.co.za)
+- [Instagram] (https://www.instagram.com/lylo_codes_/)
+- [Design Agency] (https://www.ciphercode.co.za)
 
 
 <!--
