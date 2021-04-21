@@ -5,8 +5,7 @@ My name is Lyle Timotheus and I am a self-taught developer. Feel free to reach o
 I will try to update this section with more information as soon as my life becomes more interesting. 
 
 Client projects I've worked on thus far: 
-- [Hop] (https://www.hoptoshop.co.za/)
-- [Hop](https://www.stinetuts.co.za/)
+- [Hop](https://www.hoptoshop.co.za/)
 - [Stine Tuts](https://www.stinetuts.co.za/)
 - [Industrial Pumps SA](https://www.indpumps-sa.co.za/)
 - [Inner Strength Coach](https://innerstrengthcoach.co.uk/)
