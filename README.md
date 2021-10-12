@@ -31,17 +31,17 @@ I will try to update this section with more information as soon as my life becom
 
 <br/>
 
-### 💻 Commercial projects: 
+### Commercial projects 💻 
 - [Hop](https://www.hoptoshop.co.za/)
 - [Stine Tuts](https://www.stinetuts.co.za/)
 - [Industrial Pumps SA](https://www.indpumps-sa.co.za/)
 - [Inner Strength Coach](https://innerstrengthcoach.co.uk/)
 - [Industrial Valves SA](https://www.indvalves.co.za/)
 
-### 📗 Articles
+### Articles 📗
 - [Validating a form with PHP](https://www.ciphercode.co.za/views/blog/validating-a-form-php.php)
 
-### 📫 How to reach me: 
+### How to reach me 📫
 <a href="https://www.linkedin.com/in/lyle-timotheus/"><img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" /></a>
 
 <a href="https://twitter.com/LyleCodes"><img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" /></a>
