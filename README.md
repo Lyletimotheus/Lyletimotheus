@@ -29,6 +29,7 @@ I will try to update this section with more information as soon as my life becom
 
 <img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg" />
 
+<br/>
 
 ### 💻 Commercial projects: 
 - [Hop](https://www.hoptoshop.co.za/)
