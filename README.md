@@ -56,6 +56,9 @@ Owing to my creativity I enjoy developing websites which is satisfying when it r
 
 <br/>
 
+### Personal Projects
+[GitHub Pages](https://github.com/Lyletimotheus/Web-Development-Projects)
+
 ### Commercial projects 💻 
 - [Hop](https://www.hoptoshop.co.za/)
 - [Stine Tuts](https://www.stinetuts.co.za/)
