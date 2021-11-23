@@ -2,7 +2,43 @@
 
 My name is Lyle Timotheus and I am a self-taught developer. Feel free to reach out to me if you want to work on a project. 
 
-I will try to update this section with more information as soon as my life becomes more interesting.
+I am always looking for new opportunities. Have a look at my skill set below and let me know if I can be an asset to your organization. 👇
+
+- - - - - - - -
+⌚️STATUS
+- - - - - - - -
+✅ Available for freelance work.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+🚀 LINKEDIN SKILL ASSESSMENT BADGES 📈:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+HTML | CSS | JavaScript | PHP | Adobe XD | JSON | SEO | Front-end Development | MySQL | jQuery | GIT | WordPress | REST API | XML | OOP | Bash
+
+- - - - - - - - - - - - - - - - - -
+👩‍🎓 PROFESSIONAL SKILLS:
+- - - - - - - - - - - - - - - - - -
+UI/UX Design| Social media marketing| Financial planning| Sales-lead generation| SEO|
+
+- - - - - - - - - - - - - - -
+👨‍💻 TECHNICAL SKILLS:
+- - - - - - - - - - - - - - -
+HTML5| CSS3| JavaScript| jQuery| Bootstrap| JSON| AJAX| RCode| Stata| Statistica| Microsoft Office | Figma| Adobe XD |Adobe Dimension| WordPress | PHP| MySQL| C# | SASS
+
+- - - - - - - - - - - - - - -
+😁 SHORT SUMMARY:
+- - - - - - - - - - - - - - -
+I am a full-stack web developer at CipherCode Design Studios. Continue reading below to learn more about me.
+
+- - - - - - - - - - - - - - -
+😣 LONG SUMMARY:
+- - - - - - - - - - - - - - -
+Growing up my vision was to become a chartered accountant at one of the Big Four accounting firms in South Africa. What drove my decision at the time was my keen interest in mathematics and financial accounting. I had a natural aptitude for understanding and making sense of numbers. However, this vision was short-lived when I began taking a liking to computer programming with a focus on statistical analysis.
+So my journey commenced with me pursuing a bachelor’s degree in Economic Sciences at the University of Stellenbosch. Not only did this qualification propel me to pursue a career in the corporate space, but it also equipped me with the necessary technical skills to showcase my professionalism.
+
+My time in financial services provided me with key insights into the industry. Coupled with the world-class training I received I was fortunate enough to have an abundance of resources at my disposal. I wanted to understand how data could better assist me and the client in achieving the most desirable outcome.
+
+Owing to my creativity I enjoy developing websites which is satisfying when it runs perfectly across multiple devices. It is so astonishing to witness how one can transform a static web page into a dynamic website.
+
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
