@@ -1,37 +1,26 @@
-### Greetings everyone. 👋
+## Greetings everyone. 👋
 
 My name is Lyle Timotheus and I am a self-taught developer. Feel free to reach out to me if you want to work on a project. 
 
 I am always looking for new opportunities. Have a look at my skill set below and let me know if I can be an asset to your organization. 👇
 
-- - - - - - - -
-⌚️STATUS
-- - - - - - - -
+
+### ⌚️STATUS
 ✅ Available for freelance work.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-🚀 LINKEDIN SKILL ASSESSMENT BADGES 📈:
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### 🚀 LINKEDIN SKILL ASSESSMENT BADGES 📈:
 HTML | CSS | JavaScript | PHP | Adobe XD | JSON | SEO | Front-end Development | MySQL | jQuery | GIT | WordPress | REST API | XML | OOP | Bash
 
-- - - - - - - - - - - - - - - - - -
-👩‍🎓 PROFESSIONAL SKILLS:
-- - - - - - - - - - - - - - - - - -
+### 👩‍🎓 PROFESSIONAL SKILLS:
 UI/UX Design| Social media marketing| Financial planning| Sales-lead generation| SEO|
 
-- - - - - - - - - - - - - - -
-👨‍💻 TECHNICAL SKILLS:
-- - - - - - - - - - - - - - -
+### 👨‍💻 TECHNICAL SKILLS:
 HTML5| CSS3| JavaScript| jQuery| Bootstrap| JSON| AJAX| RCode| Stata| Statistica| Microsoft Office | Figma| Adobe XD |Adobe Dimension| WordPress | PHP| MySQL| C# | SASS
 
-- - - - - - - - - - - - - - -
-😁 SHORT SUMMARY:
-- - - - - - - - - - - - - - -
+### 😁 SHORT SUMMARY:
 I am a full-stack web developer at CipherCode Design Studios. Continue reading below to learn more about me.
 
-- - - - - - - - - - - - - - -
-😣 LONG SUMMARY:
-- - - - - - - - - - - - - - -
+### 😣 LONG SUMMARY:
 Growing up my vision was to become a chartered accountant at one of the Big Four accounting firms in South Africa. What drove my decision at the time was my keen interest in mathematics and financial accounting. I had a natural aptitude for understanding and making sense of numbers. However, this vision was short-lived when I began taking a liking to computer programming with a focus on statistical analysis.
 So my journey commenced with me pursuing a bachelor’s degree in Economic Sciences at the University of Stellenbosch. Not only did this qualification propel me to pursue a career in the corporate space, but it also equipped me with the necessary technical skills to showcase my professionalism.
 
