@@ -60,7 +60,7 @@ Owing to my creativity I enjoy developing websites which is satisfying when it r
 [GitHub Pages](https://github.com/Lyletimotheus/Web-Development-Projects)
 
 ### Commercial projects 💻 
-- [DFI Accounting](https://dfiaccounting.co.za/) : Work in progress 
+- [DFI Accounting](https://dfiaccounting.co.za/)
 - [Hop](https://www.hoptoshop.co.za/)
 - [Stine Tuts](https://www.stinetuts.co.za/)
 - [Industrial Pumps SA](https://www.indpumps-sa.co.za/)
