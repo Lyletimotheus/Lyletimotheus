@@ -57,7 +57,7 @@ Owing to my creativity I enjoy developing websites which is satisfying when it r
 <br/>
 
 ### Personal Projects
-[GitHub Pages](https://github.com/Lyletimotheus/Web-Development-Projects)
+[Personal Projects](https://github.com/Lyletimotheus/Web-Development-Projects)
 
 ### Commercial projects 💻 
 - [DFI Accounting](https://dfiaccounting.co.za/)
