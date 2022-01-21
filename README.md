@@ -9,8 +9,6 @@ I am always looking for new opportunities. Have a look at my skill set below and
 ✅ Available for freelance work.
 
 ### Currently learning
-⏲ Dart and Flutter
-</br> 
 <img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />  
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 
