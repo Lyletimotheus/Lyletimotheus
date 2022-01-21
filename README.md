@@ -8,6 +8,13 @@ I am always looking for new opportunities. Have a look at my skill set below and
 ### ⌚️STATUS
 ✅ Available for freelance work.
 
+### Currently learning
+⏲ Dart and Flutter 
+
+<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+
+<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+
 ### 🚀 LINKEDIN SKILL ASSESSMENT BADGES 📈:
 HTML | CSS | JavaScript | PHP | Adobe XD | JSON | SEO | Front-end Development | MySQL | jQuery | GIT | WordPress | REST API | XML | OOP | Bash
 
